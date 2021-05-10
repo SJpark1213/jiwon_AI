@@ -1,4 +1,4 @@
-# jiwon_AI
+# Deep Learning
 1. AI projects
  - Image Classifications\
     VGGNet-16\
