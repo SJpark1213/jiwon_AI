@@ -5,7 +5,7 @@
     ResNet
  - Generative Models\
     DCGAN
- - Detection Models\
+ - Detection Models
 
 2. IOS Application Development
  - SwithDog
