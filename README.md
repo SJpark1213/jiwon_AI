@@ -1,6 +1,6 @@
 # jiwon_AI
 1. AI projects
- - Image Classifications
+ - Image Classifications\
     VGGNet-16
     ResNet
  - Generative Models
