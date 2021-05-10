@@ -1,4 +1,4 @@
-# Deep Learning
+# Jiwon's Study
 1. AI projects
  - Image Classifications\
     VGGNet-16\
