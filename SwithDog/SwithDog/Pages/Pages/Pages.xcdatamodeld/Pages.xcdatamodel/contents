@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="17511" systemVersion="19H2" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="User" representedClassName="User" syncable="YES">
+        <attribute name="currentDogSerialNumber" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="currentPlan" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="currentPlanAchievementRate" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="currentPlanDaysList" optional="YES" attributeType="Transformable" customClassName="[String]"/>
+        <attribute name="graduateDogSerialList" optional="YES" attributeType="Transformable" customClassName="[Int]"/>
+        <attribute name="graduatePlanAchievementRates" optional="YES" attributeType="Transformable" customClassName="[Double]"/>
+        <attribute name="graduatePlanList" optional="YES" attributeType="Transformable" customClassName="[Int]"/>
+        <attribute name="pastJumpingJackRepsDict" optional="YES" attributeType="Transformable" customClassName="[String: Int]"/>
+        <attribute name="pastLungeRepsDict" optional="YES" attributeType="Transformable" customClassName="[String: Int]"/>
+        <attribute name="pastSquatRepsDict" optional="YES" attributeType="Transformable" customClassName="[String: Int]"/>
+        <attribute name="runAwayDogSerialList" optional="YES" attributeType="Transformable" customClassName="[Int]"/>
+        <attribute name="runAwayPlanAchievementRates" optional="YES" attributeType="Transformable" customClassName="[Double]"/>
+        <attribute name="runAwayPlanList" optional="YES" attributeType="Transformable" customClassName="[Int]"/>
+        <attribute name="todayAchievementRate" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="todayJumpingJackReps" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="todayLungeReps" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="todaySquatReps" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+    </entity>
+    <elements>
+        <element name="User" positionX="-54" positionY="-9" width="128" height="298"/>
+    </elements>
+</model>

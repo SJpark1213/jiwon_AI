@@ -1,0 +1,94 @@
+{
+  "products" : [
+    {
+      "displayPrice" : "6",
+      "familyShareable" : false,
+      "internalID" : "45A39EB2",
+      "localizations" : [
+        {
+          "description" : "This plan is for 7 days.",
+          "displayName" : "7 Days Plan",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "7일 동안 이용 가능한 플랜입니다.",
+          "displayName" : "7일 플랜",
+          "locale" : "ko"
+        }
+      ],
+      "productID" : "com.dreamin.SwithDog.1week",
+      "referenceName" : "7 Days Plan",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "25",
+      "familyShareable" : false,
+      "internalID" : "D68A6992",
+      "localizations" : [
+        {
+          "description" : "This plan is for 14 days.",
+          "displayName" : "2 Weeks Plan",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "14일 동안 이용 가능한 플랜입니다.",
+          "displayName" : "14일 플랜",
+          "locale" : "ko"
+        }
+      ],
+      "productID" : "com.dreamin.SwithDog.2week",
+      "referenceName" : "2 Weeks Plan",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "45",
+      "familyShareable" : false,
+      "internalID" : "42CB2C6B",
+      "localizations" : [
+        {
+          "description" : "This plan is for 30 days.",
+          "displayName" : "1 Month Plan",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "30일 동안 이용 가능한 플랜입니다.",
+          "displayName" : "30일 플랜",
+          "locale" : "ko"
+        }
+      ],
+      "productID" : "com.dreamin.SwithDog.3week",
+      "referenceName" : "1 Month Plan",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "180",
+      "familyShareable" : false,
+      "internalID" : "BCF52CDE",
+      "localizations" : [
+        {
+          "description" : "This plan is for 60 days.",
+          "displayName" : "2 Months Plan",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "60일 동안 이용 가능한 플랜입니다.",
+          "displayName" : "60일 플랜",
+          "locale" : "ko"
+        }
+      ],
+      "productID" : "com.dreamin.SwithDog.4week",
+      "referenceName" : "2 Months Plan",
+      "type" : "Consumable"
+    }
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 0
+  }
+}
